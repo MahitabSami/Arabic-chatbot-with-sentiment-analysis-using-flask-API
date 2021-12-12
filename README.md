@@ -7,3 +7,6 @@
                                  •	bhadresh-savani/distilbert-base-uncased-emotion
 -	we use Flask API to show the conversation between user and chatbot and to show different pictures for each expression of the chatbot
 
+![image](https://user-images.githubusercontent.com/90705727/145723019-12aff11f-2989-4cfb-9d60-a32191341aba.png)
+
+
